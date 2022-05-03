@@ -32,8 +32,7 @@
 </div>
 
 
-<br><br>
+<br><br><br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xb1796oh&layout=compact)](https://github.com/xb1796oh/github-readme-stats)
 
