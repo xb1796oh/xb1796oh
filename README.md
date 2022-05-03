@@ -1,4 +1,9 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=99FF99&height=200&section=header)
+## _Welcome!_
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![xb1796oh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **xb1796oh/xb1796oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
