@@ -34,8 +34,6 @@
 
 <br><br>
 
-<div align=center><h3>My github</h3></div>
-<hr>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xb1796oh&layout=compact)](https://github.com/xb1796oh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xb1796oh&layout=compact)](https://github.com/xb1796oh/github-readme-stats)
 
